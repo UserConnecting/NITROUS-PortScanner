@@ -7,6 +7,7 @@
 
 <h1 align="center"> :speech_balloon: </h1>
 Port Scanner feito para sistemas Linux que conta as opções de:
+<br></br>
 -top => Scan das 1000 portas mais utilizadas
 -chs => Scan das portas escolhidas
 -rng => Scan de range de portas
