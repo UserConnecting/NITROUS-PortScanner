@@ -18,7 +18,7 @@ No momento o threading ainda não foi incluso, levando isso em conta, o scan pod
 <h1 align="center"> :wrench: </h1>
 Clone o repositório:<br></br>
 git clone https://github.com/UserConnecting/NITROUS-PortScanner<br></br><br></br>
-Instale os requirements:<br></br>
+No diretório clonado instale os requirements:<br></br>
 pip3 install -r requirements.txt<br></br><br></br>
 Execute o script:<br></br>
 python3 NITROUS_PortScanner.py --target...<br></br>
