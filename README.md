@@ -3,7 +3,7 @@
 
 <h1 align="center"> :heavy_check_mark: </h1>
 <p align="center"> Linguagem utilizada: Python <p>
-<p> Autores: Joe Martins de Pontes | Giovani Marquesini Domingos
+<p align="center"> Autores: Joe Martins de Pontes | Giovani Marquesini Domingos
 
 
 <h1 align="center"> :speech_balloon: </h1>
