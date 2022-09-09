@@ -12,7 +12,7 @@ Port Scanner feito para sistemas Linux que conta as opções de:<br></br>
 -rng => Scan de range de portas<br></br>
 -all => Scan de todas as 65535 portas<br></br><br></br>
 
-No momento o threading ainda não foi incluso, levando isso em conta, o scan pode levar mais tempo para finalizar de acordo com a quantidade de portas que foram escolhidas.
+No momento o threading ainda não foi incluso, levando isso em conta, o scan pode levar mais tempo para finalizar de acordo com a quantidade de portas que foram escolhidas.<br></br>
 
 
 <h1 align="center"> :wrench: </h1>
