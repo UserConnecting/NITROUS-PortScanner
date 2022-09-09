@@ -21,7 +21,7 @@ git clone https://github.com/UserConnecting/NITROUS-PortScanner<br></br><br></br
 No diretório clonado instale os requirements:<br></br>
 pip3 install -r requirements.txt<br></br><br></br>
 Execute o script:<br></br>
-python3 NITROUS_PortScanner.py --target...<br></br>
+python3 NITROUS_PortScanner.py -help<br></br>
 
 
 
