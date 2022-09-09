@@ -10,7 +10,10 @@ Port Scanner feito para sistemas Linux que conta as opções de:<br></br>
 -top => Scan das 1000 portas mais utilizadas<br></br>
 -chs => Scan das portas escolhidas<br></br>
 -rng => Scan de range de portas<br></br>
--all => Scan de todas as 65535 portas<br></br>
+-all => Scan de todas as 65535 portas<br></br><br></br>
+
+No momento o threading ainda não foi incluso, levando isso em conta, o scan pode levar mais tempo para finalizar de acordo com a quantidade de portas que foram escolhidas.
+
 
 
 <h1 align="center"> :warning: </h1>
