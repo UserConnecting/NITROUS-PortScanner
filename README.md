@@ -15,6 +15,15 @@ Port Scanner feito para sistemas Linux que conta as opções de:<br></br>
 No momento o threading ainda não foi incluso, levando isso em conta, o scan pode levar mais tempo para finalizar de acordo com a quantidade de portas que foram escolhidas.
 
 
+<h1 align="center"> :wrench: </h1>
+Clone o repositório:<br></br>
+git clone https://github.com/UserConnecting/NITROUS-PortScanner<br></br><br></br>
+Instale os requirements:<br></br>
+pip3 install -r requirements.txt<br></br><br></br>
+Execute o script:<br></br>
+python3 NITROUS_PortScanner.py --target...<br></br>
+
+
 
 <h1 align="center"> :warning: </h1>
 * O foco deste programa é para uso acadêmico e não deve ser utilizado contra hosts sem permissão.
