@@ -3,7 +3,6 @@
 
 """
 - Joe Martins de Pontes
-- Giovani Marquesini Domingos
 
 PortScanner testado em sistema Linux.
 
