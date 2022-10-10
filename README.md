@@ -2,8 +2,9 @@
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVENDO&color=YELLOW&style=for-the-badge"/></p>
 
 <h1 align="center"> :heavy_check_mark: </h1>
-<p align="center"> Linguagem utilizada: Python <p>
-<p align="center"> Autor: Joe Martins de Pontes
+<p align="center"> Linguagem utilizada: Python </p>
+<p align="center"> Autor: Joe Martins de Pontes </p>
+<br></br>
 
 
 <h1 align="center"> :speech_balloon: </h1>
